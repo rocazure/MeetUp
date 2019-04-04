@@ -82,3 +82,13 @@ At the end of this session you should have a much better understanding of questi
 - what is a lambda architecture
 
 This is a must for anyone working on data centric solutions and migrating workloads to the cloud!
+
+### Demystifying Serverless Computing
+March 14, 2018 ([Meetup Link](https://www.meetup.com/Rochester-Azure-Users-Group/events/247709701/))
+
+#### [Presentation](./2018-04%20Demystifying%20Serverless%20Computing/)
+A focus on Serverless computing and Azure's comprehensive portfolio of serverless computing services.
+
+Serverless computing lets you build and deploy great applications without having to manage servers, VM or even containers. It is event driven and resources are allocated as soon as they're triggered by an event. You're only charged for the time and resources it takes to execute your code - through per second billing.
+
+The keynote this month will take a closer look at the Azure serverless application platform to help you boost developer productivity, create seamless connections and develop intelligent apps.
