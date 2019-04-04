@@ -61,3 +61,24 @@ Your local Microsoft cloud architect team led a discussion on the Microsoft Bot 
 Learn how to leverage conversations to create people centric applications and extend them with Cognitive Service APIs to built in intelligence such as language processing, spell checking and image recognition.
 
 Overview of bots then dive into code and show you how to leverage the Azure Bot Service to publish your Bot to the world.
+
+### Demystifying Big Data technologies and solutions for the Cloud
+May 16, 2018 ([Meetup Link](https://www.meetup.com/Rochester-Azure-Users-Group/events/248729549/))
+
+#### [Presentation](./2018-05%20Demystifying%20Big%20Data/)
+
+This keynote will help you level set and demystify concepts like:
+- what is big data, and what new business outcomes does it enable
+- what technologies and tools are available, and how to choose which one to use when
+- review common big data architecture solutions, and discuss pros/cons of each
+- share some real world customer examples
+
+At the end of this session you should have a much better understanding of questions like:
+- should I still use SQL
+- should I use Data Lake
+- do I still need a cube
+- what about Hadoop/NoSQL
+- what about MPP
+- what is a lambda architecture
+
+This is a must for anyone working on data centric solutions and migrating workloads to the cloud!
