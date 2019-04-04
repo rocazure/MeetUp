@@ -15,7 +15,7 @@ This repository is a collection of the presentations and artifacts from past Mee
 ### Azure Core Enablement and Security strategies
 February 6, 2019 ([Meetup Link](https://www.meetup.com/Rochester-Azure-Users-Group/events/254756633/))
 
-[Presentation](./2019-02 Azure Core Enablement)
+#### [Presentation](./2019-02%20Azure%20Core%20Enablement/)
 
 Keynote on Azure Core Enablement. Your local Microsoft cloud architects lead a discussion on what we consider to be those critical, foundational core enablement capabilities required to efficiently, securely and cost effectively deploy cloud based workloads.
 
