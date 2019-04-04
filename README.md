@@ -54,7 +54,7 @@ The goal of this keynote is to:
 ### Making your apps more personal with a chatbot
 October 17, 2018 ([Meetup Link](https://www.meetup.com/Rochester-Azure-Users-Group/events/253621404/))
 
-#### [Presentation](./2018-10%20Chat%20Bots/)
+#### [Presentation](./2018-10%20Chatbots/)
 
 Your local Microsoft cloud architect team led a discussion on the Microsoft Bot Framework to build a chatbot.
 
