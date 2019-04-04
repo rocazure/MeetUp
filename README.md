@@ -50,3 +50,14 @@ The goal of this keynote is to:
 - Surface critical capabilities required to be successful with cloud deployments
 - Provide prescriptive guidance for many typical and common use cases
 - Serve as a guide and self assessment tool for those already on their cloud journey
+
+### Making your apps more personal with a chatbot
+October 17, 2018 ([Meetup Link](https://www.meetup.com/Rochester-Azure-Users-Group/events/253621404/))
+
+#### [Presentation](./2018-10%20Chat%20Bots/)
+
+Your local Microsoft cloud architect team led a discussion on the Microsoft Bot Framework to build a chatbot.
+
+Learn how to leverage conversations to create people centric applications and extend them with Cognitive Service APIs to built in intelligence such as language processing, spell checking and image recognition.
+
+Overview of bots then dive into code and show you how to leverage the Azure Bot Service to publish your Bot to the world.
