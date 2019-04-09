@@ -9,10 +9,20 @@ We exists to:
 Our meetings are orgainzed via [MeetUp.com](http://www.rocazure.com). 
 
 ## Meeting artifacts and presentations
-This repository is a collection of the presentations and artifacts from past MeetUps. 
+(This repository is a collection of the presentations and artifacts from past MeetUps.)
 
+- [Azure Core Enablement and Security strategies](#Azure-Core-Enablement-and-Security-strategies)
 
-### Azure Core Enablement and Security strategies
+- [Making your apps more personal with a chatbot](#Making-your-apps-more-personal-with-a-chatbot)
+
+- [Demystifying Big Data technologies and solutions for the Cloud](#Demystifying-Big-Data-technologies-and-solutions-for-the-Cloud)
+
+- [Demystifying Serverless Computing](#Demystifying-Serverless-Computing)
+
+---
+---
+
+## Azure Core Enablement and Security strategies
 February 6, 2019 ([Meetup Link](https://www.meetup.com/Rochester-Azure-Users-Group/events/254756633/))
 
 #### [Presentation](./2019-02%20Azure%20Core%20Enablement/)
@@ -51,7 +61,7 @@ The goal of this keynote is to:
 - Provide prescriptive guidance for many typical and common use cases
 - Serve as a guide and self assessment tool for those already on their cloud journey
 
-### Making your apps more personal with a chatbot
+## Making your apps more personal with a chatbot
 October 17, 2018 ([Meetup Link](https://www.meetup.com/Rochester-Azure-Users-Group/events/253621404/))
 
 #### [Presentation](./2018-10%20Chatbots/)
@@ -62,7 +72,7 @@ Learn how to leverage conversations to create people centric applications and ex
 
 Overview of bots then dive into code and show you how to leverage the Azure Bot Service to publish your Bot to the world.
 
-### Demystifying Big Data technologies and solutions for the Cloud
+## Demystifying Big Data technologies and solutions for the Cloud
 May 16, 2018 ([Meetup Link](https://www.meetup.com/Rochester-Azure-Users-Group/events/248729549/))
 
 #### [Presentation](./2018-05%20Demystifying%20Big%20Data/)
@@ -83,7 +93,7 @@ At the end of this session you should have a much better understanding of questi
 
 This is a must for anyone working on data centric solutions and migrating workloads to the cloud!
 
-### Demystifying Serverless Computing
+## Demystifying Serverless Computing
 March 14, 2018 ([Meetup Link](https://www.meetup.com/Rochester-Azure-Users-Group/events/247709701/))
 
 #### [Presentation](./2018-04%20Demystifying%20Serverless%20Computing/)
