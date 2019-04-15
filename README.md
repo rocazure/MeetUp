@@ -11,6 +11,7 @@ Our meetings are orgainzed via [MeetUp.com](http://www.rocazure.com).
 ## Meeting artifacts and presentations
 (This repository is a collection of the presentations and artifacts from past MeetUps.)
 
+- [Intro to Machine Learning and the Azure ML Platform](#Intro-to-Machine-Learning-and-the-Azure-ML-Platform)
 - [Azure Core Enablement and Security strategies](#Azure-Core-Enablement-and-Security-strategies)
 
 - [Making your apps more personal with a chatbot](#Making-your-apps-more-personal-with-a-chatbot)
@@ -21,6 +22,13 @@ Our meetings are orgainzed via [MeetUp.com](http://www.rocazure.com).
 
 ---
 ---
+
+## Intro to Machine Learning and the Azure ML Platform
+April 10, 2019 ([Meetup Link](https://www.meetup.com/Rochester-Azure-Users-Group/events/257877772/))
+
+#### [Presentation](./2019-04%20Intro%20to%20Machine%20Learning/)
+
+ Learn some of the basics of Machine learning, from commonly used terms, to the types of questions that can be answered. We will then introduce the different ways the Azure platform can be utilized for Machine Learning use cases. To make it real, we’ll conclude with a demonstration that explores some recently released functionality to help improve the productivity of data scientists.
 
 ## Azure Core Enablement and Security strategies
 February 6, 2019 ([Meetup Link](https://www.meetup.com/Rochester-Azure-Users-Group/events/254756633/))
