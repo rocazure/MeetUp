@@ -6,7 +6,7 @@ We exists to:
     - Demystify cloud computing concepts, patterns and provide guidance on ideal cloud workloads with lessons learned and best practices
 - Stay current through Keynote discussions, Azure updates, demos and hands on labs
 
-Our meetings are orgainzed via [MeetUp.com](http://www.rocazure.com). 
+Our meetings are organized via [MeetUp.com](http://www.rocazure.com). 
 
 ## Meeting artifacts and presentations
 (This repository is a collection of the presentations and artifacts from past MeetUps.)
