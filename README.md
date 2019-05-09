@@ -11,7 +11,7 @@ Our meetings are organized via [MeetUp.com](http://www.rocazure.com).
 ## Meeting artifacts and presentations
 (This repository is a collection of the presentations and artifacts from past MeetUps.)
 
-- [Community Case Study - Kodak Alaris](Community-Case-Study---Kodak-Alaris)
+- [Community Case Study - Kodak Alaris](#community-case-study---kodak-alaris)
 
 - [Intro to Machine Learning and the Azure ML Platform](#Intro-to-Machine-Learning-and-the-Azure-ML-Platform)
 - [Azure Core Enablement and Security strategies](#Azure-Core-Enablement-and-Security-strategies)
