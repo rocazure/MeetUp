@@ -11,6 +11,8 @@ Our meetings are organized via [MeetUp.com](http://www.rocazure.com).
 ## Meeting artifacts and presentations
 (This repository is a collection of the presentations and artifacts from past MeetUps.)
 
+- [Community Case Study - Kodak Alaris](Community-Case-Study---Kodak-Alaris)
+
 - [Intro to Machine Learning and the Azure ML Platform](#Intro-to-Machine-Learning-and-the-Azure-ML-Platform)
 - [Azure Core Enablement and Security strategies](#Azure-Core-Enablement-and-Security-strategies)
 
@@ -22,6 +24,25 @@ Our meetings are organized via [MeetUp.com](http://www.rocazure.com).
 
 ---
 ---
+
+## Community Case Study - Kodak Alaris
+May 8, 2019 ([Meetup Link](https://www.meetup.com/Rochester-Azure-Users-Group/events/257873782/))
+
+#### [Presentation](./2019-05%20Community%20Case%20Study%20-%20Kodak%20Alaris/)
+
+Learn how Kodak Alaris runs their business on Azure. Steve and Dan will cover a host of topics including:
+- migrations
+- management groups
+- policies
+- networking
+- identity
+- security
+- monitoring
+- collaboration/Teams
+- benefits of M365 E5
+
+Essentially, what it's like to run a global company with Microsoft on Azure!
+
 
 ## Intro to Machine Learning and the Azure ML Platform
 April 10, 2019 ([Meetup Link](https://www.meetup.com/Rochester-Azure-Users-Group/events/257877772/))
