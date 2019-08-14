@@ -11,6 +11,8 @@ Our meetings are organized via [MeetUp.com](http://www.rocazure.com).
 ## Meeting artifacts and presentations
 (This repository is a collection of the presentations and artifacts from past MeetUps.)
 
+- [Community Case Study - Paychex](#community-case-study---paychex)
+
 - [Community Case Study - Kodak Alaris](#community-case-study---kodak-alaris)
 
 - [Intro to Machine Learning and the Azure ML Platform](#Intro-to-Machine-Learning-and-the-Azure-ML-Platform)
@@ -24,6 +26,11 @@ Our meetings are organized via [MeetUp.com](http://www.rocazure.com).
 
 ---
 ---
+
+## Community Case Study - Paychex
+August 14, 2019 ([Meetup Link](https://www.meetup.com/Rochester-Azure-Users-Group/events/260372450/))
+
+#### [Presentation](./2019-08%20Community%20Case%20Study%20-%20Paychex/)
 
 ## Community Case Study - Kodak Alaris
 May 8, 2019 ([Meetup Link](https://www.meetup.com/Rochester-Azure-Users-Group/events/257873782/))
