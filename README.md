@@ -10,7 +10,7 @@ Our meetings are organized via [MeetUp.com](http://www.rocazure.com).
 
 ## Meeting artifacts and presentations
 
-- [Community Case Study - Rich Product](./2020-06%20Community%20Case%20Study%20-%20Rich%20Product)
+- [Community Case Study - Rich Products](./2020-06%20Community%20Case%20Study%20-%20Rich%20Products)
 
 - [Community Case Study - Paychex - Architecting an Analytics Platform in Azure](2020-05%20Community%20Case%20Study%20Paychex%20-%20Architecting%20an%20Analytics%20Platform%20in%20Azure)
 
